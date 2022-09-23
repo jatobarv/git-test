@@ -1,7 +1,11 @@
 adfijasdf
+<<<<<<< HEAD
 fasdfaosdi
 aefas
 foaisdjfaoifwae
 faksdjfnasd
 faksjdfoeawnf
 fasefas
+=======
+fasdfaosdi
+>>>>>>> parent of a1c3d77 (2)
